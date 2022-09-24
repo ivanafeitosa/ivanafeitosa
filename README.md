@@ -2,6 +2,8 @@
 
 📚 I'm currently learning Web Development at <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
 <br>
+💻 I’m currently collaborating in the analysis of mobility and accessibility data from Brazilian cities.
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
