@@ -1,9 +1,12 @@
 ### Hi, my name is Ivana Feitosa.
 
-📚 I'm currently learning Web Development at <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
+I'm a web developer, currently living in Fortaleza. Graduated in Civil Engineering and in love with technology!
+
+📚 I'm currently learning Web Development at <a href="https://www.rocketseat.com.br/">Rocketseat</a> and backend with Java at <a href="https://ada.tech/">Ada Tech</a>.
 <br>
-💻 I’m collaborating in the analysis of mobility and urban accessibility data from Brazilian cities.
-<br>
+💻 Technologies: Java, JavaScript, NodeJs, PostgreSQL
+🌎 Languages: Basic in English
+✉️ How to reach me: ivsfeitosa@gmail.com or https://www.linkedin.com/in/ivanafeitosa/
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -20,6 +23,9 @@
 ![Redux](https://img.shields.io/badge/Redux-05122A?style=flat&logo=redux)&nbsp;
 ![R](https://img.shields.io/badge/R-05122A?style=flat&logo=r)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+![Postgres](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=white)&nbsp;
 
 <br>
 
