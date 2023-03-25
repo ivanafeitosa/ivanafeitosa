@@ -5,7 +5,9 @@ I'm a web developer, currently living in Fortaleza. Graduated in Civil Engineeri
 📚 I'm currently learning Web Development at <a href="https://www.rocketseat.com.br/">Rocketseat</a> and backend with Java at <a href="https://ada.tech/">Ada Tech</a>.
 <br>
 💻 Technologies: Java, JavaScript, NodeJs, PostgreSQL
+<br>
 🌎 Languages: Basic in English
+<br>
 ✉️ How to reach me: ivsfeitosa@gmail.com or https://www.linkedin.com/in/ivanafeitosa/
 
 ## 🛠 &nbsp;Tech Stack
