@@ -1,10 +1,10 @@
 ### Hi, my name is Ivana Feitosa.
 
-I'm a web developer, currently living in Fortaleza. Graduated in Civil Engineering and in love with technology!
+I'm a web development student, currently living in Fortaleza. Graduated in Civil Engineering and in love with technology!
 
-📚 I'm currently learning Web Development at <a href="https://www.rocketseat.com.br/">Rocketseat</a> and backend with Java at <a href="https://ada.tech/">Ada Tech</a>.
+📚 I already studied Java at <a href="https://ada.tech/">Ada Tech</a>. I'm currently learning Web Development at <a href="https://digitalcollege.com.br/">Digital College</a>
 <br>
-💻 Technologies: Java, JavaScript, NodeJs, PostgreSQL
+💻 Technologies: JavaScript, NodeJs, PostgreSQL, Java
 <br>
 🌎 Languages: Basic in English
 <br>
